@@ -1,4 +1,4 @@
-# AppInvoice
+# invoice-app
 This project was generated with Angular CLI version 12.2.10.
 
 # Development server
